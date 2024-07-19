@@ -1,0 +1,47 @@
+
+body{
+    background-image: url('/public/img/tetris.jpg');
+    background-size: 80%;
+
+}
+
+
+.txt{
+	color:rgb(43, 67, 146);
+	position:fixed;
+	text-align: center;
+	font-size:80px;
+	right:0;
+	left:0;	
+    padding-top: 80px;
+}
+
+.parrafo{
+	color:rgb(0, 0, 0);
+	position:fixed;
+	text-align: center;
+	font-size:20px;
+	right:0;
+	left:0;	
+    padding-top: 200px;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.img{
+	position:fixed;
+	text-align: center;
+	right:0;
+	left:0;	
+    padding-top: 200px;
+    width: 0.0000001px;;
+    height: 0.0000001px;
+    
+}
+ 
+  
